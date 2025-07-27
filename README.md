@@ -8,23 +8,34 @@ Ramakrishna Mission Vivekananda Educational and Research Institute (RKMVERI), Be
 
 ## 📁 Projects
 
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
 - **[Congruence Theory and Its Applications](https://github.com/iamrsarkar/Congruence-Theory-And-Its-Applications)**  
   Explored applications of Congruence Theory in Number Theory and Cryptography.
 
 - **[Fashion MNIST Classification](https://github.com/iamrsarkar/Predicting-Fashion-Categories-A-Machine-Learning-Classification-Approach-Using-Fashion-MNIST)**  
-  Built machine learning models to classify fashion items using the Fashion MNIST dataset, focusing on high-accuracy classification.
+  Built ML models to classify fashion items using the Fashion MNIST dataset, focusing on high-accuracy classification.
 
 - **[MFCC-Based Speech Feature Extraction](https://github.com/iamrsarkar/mfcc-feature-extraction)**  
-  Implemented a full MFCC pipeline in Python including pre-emphasis, framing, FFT, Mel filterbanks, DCT, and delta features. Visualized intermediate results and explained auditory motivations.
+  Implemented a full MFCC pipeline in Python including pre-emphasis, framing, FFT, Mel filterbanks, DCT, and delta features.
+
+</td>
+<td valign="top" width="50%">
 
 - **[ChessLens: Chess Board Visualization](https://github.com/iamrsarkar/ChessLens)**  
   Developed a real-time chessboard digitization tool using OpenCV and Tkinter for visualizing FEN positions.
 
 - **[Visual Question Answering on VizWiz Dataset](https://github.com/iamrsarkar/VQA-VizWiz)**  
-  Leveraged CLIP ViT-B/32 and MLPs to address image-question pairs for accessibility-focused VQA. Tackled noise and long-tail distribution of answers.
+  Used CLIP ViT-B/32 and MLPs for accessibility-focused VQA. Tackled noise and long-tail answer distributions.
 
 - **[Reinforcement Learning-Based Portfolio Optimization](https://github.com/iamrsarkar/reinforcement-portfolio-optimization)**  
-  Designed an RL-driven stock portfolio strategy using Graph Attention Networks and spatio-temporal features. Validated through backtesting.
+  Designed an RL-based portfolio strategy using GATs and spatio-temporal features. Backtested for validation.
+
+</td>
+</tr>
+</table>
 
 ---
 
