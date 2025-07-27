@@ -89,8 +89,6 @@ Ramakrishna Mission Vivekananda Educational and Research Institute (RKMVERI), Be
 - ♟️ FIDE Classical Rating: **1447**
 
 ---
-</td>
-<td valign="top" width="50%">
 
 ### 📜 Certifications
 
@@ -98,6 +96,8 @@ Ramakrishna Mission Vivekananda Educational and Research Institute (RKMVERI), Be
 - Python Project for Beginners (Great Learning Academy, Aug 2024)
 
 ---
+</td>
+<td valign="top" width="50%">
 
 ### 🧪 Experience
 
