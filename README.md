@@ -46,10 +46,6 @@ Ramakrishna Mission Vivekananda Educational and Research Institute (RKMVERI), Be
 - Linear & Abstract Algebra  
 - Advanced Statistical Methods  
 - Multivariate Analysis  
-
-</td>
-<td valign="top" width="50%">
-
 - Data Structures and Algorithms  
 - Java & Hadoop  
 - DBMS  
@@ -70,6 +66,8 @@ Ramakrishna Mission Vivekananda Educational and Research Institute (RKMVERI), Be
 - ♟️ FIDE Classical Rating: **1447**
 
 ---
+</td>
+<td valign="top" width="50%">
 
 ### 📜 Certifications
 
