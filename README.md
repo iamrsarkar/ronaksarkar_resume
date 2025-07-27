@@ -48,7 +48,10 @@ Ramakrishna Mission Vivekananda Educational and Research Institute (RKMVERI), Be
 - Indian Knowledge System  
 - Basic Statistics, Probability and Stochastic Process  
 - Linear and Abstract Algebra  
-- Advanced Statistical Methods, Multivariate Analysis  
+- Advanced Statistical Methods, Multivariate Analysis
+  </td>
+    <td valign="top" width="50%">
+
 - Data Structures and Algorithms, Java & Hadoop  
 - DBMS, Machine Learning, Applied Machine Learning  
 - Time Series & Survival Analysis  
@@ -81,9 +84,6 @@ Ramakrishna Mission Vivekananda Educational and Research Institute (RKMVERI), Be
 ---
 
 ## 🎓 Education
-<table>
-  <tr>
-    <td valign="top" width="50%">
 
 - **Ramakrishna Mission Vivekananda Educational and Research Institute, Howrah**  
   *M.Sc in Big Data Analytics* (2024 – 2026, Expected)
@@ -96,9 +96,7 @@ Ramakrishna Mission Vivekananda Educational and Research Institute (RKMVERI), Be
 
 - **Nivedita Sishu Siksha Kendra**  
   *Elementary School* (2009 – 2012)
-</td>
-</tr>
-</table>
+
 ---
 
 ## 🛠️ Skills
