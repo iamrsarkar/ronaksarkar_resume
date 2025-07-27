@@ -3,11 +3,7 @@
 **M.Sc in Big Data Analytics**  
 Ramakrishna Mission Vivekananda Educational and Research Institute (RKMVERI), Belur Math, West Bengal, India  
 
-📧 ronaksarkar03@gmail.com  
-📱 7980465204  
-🔗 [LinkedIn](https://www.linkedin.com/in/ronak-sarkar-122a6130b/)  
-💻 [GitHub](https://github.com/iamrsarkar)  
-🌐 [Portfolio](https://sites.google.com/view/rsarkar)  
+📧 ronaksarkar03@gmail.com  🔗 [LinkedIn](https://www.linkedin.com/in/ronak-sarkar-122a6130b/)  💻 [GitHub](https://github.com/iamrsarkar)  🌐 [Portfolio](https://sites.google.com/view/rsarkar)  
 
 ---
 
