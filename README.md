@@ -37,15 +37,23 @@ Ramakrishna Mission Vivekananda Educational and Research Institute (RKMVERI), Be
 
 ---
 
-### 📚 Coursework
+## 📚 Coursework
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
 - Universal Human Values  
 - Indian Knowledge System  
 - Basic Statistics  
-- Probability & Stochastic Process  
-- Linear & Abstract Algebra  
+- Probability and Stochastic Process  
+- Linear and Abstract Algebra  
 - Advanced Statistical Methods  
 - Multivariate Analysis  
+
+</td>
+<td valign="top" width="50%">
+
 - Data Structures and Algorithms  
 - Java & Hadoop  
 - DBMS  
@@ -55,6 +63,10 @@ Ramakrishna Mission Vivekananda Educational and Research Institute (RKMVERI), Be
 - Computer Vision  
 - Deep Learning and NLP  
 - Reinforcement Learning  
+
+</td>
+</tr>
+</table>
 
 ---
 
