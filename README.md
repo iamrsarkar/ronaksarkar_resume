@@ -2,8 +2,7 @@
 
 **M.Sc in Big Data Analytics**  
 Ramakrishna Mission Vivekananda Educational and Research Institute (RKMVERI), Belur Math, West Bengal, India  
-📫 Email: ronaksarkar03@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/r-sarkar-122a6130b/) | 🎯 FIDE Rating: 1447  
+📫 Email: ronaksarkar03@gmail.com  🔗 [LinkedIn](https://www.linkedin.com/in/r-sarkar-122a6130b/) | 🎯 FIDE Rating: 1447  
 
 ---
 
