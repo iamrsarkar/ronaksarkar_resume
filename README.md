@@ -47,16 +47,22 @@ Ramakrishna Mission Vivekananda Educational and Research Institute (RKMVERI), Be
 
 - Universal Human Values  
 - Indian Knowledge System  
-- Basic Statistics, Probability and Stochastic Process  
+- Basic Statistics
+- Probability and Stochastic Process  
 - Linear and Abstract Algebra  
-- Advanced Statistical Methods, Multivariate Analysis
+- Advanced Statistical Methods
+- Multivariate Analysis
   </td>
     <td valign="top" width="50%">
 
-- Data Structures and Algorithms, Java & Hadoop  
-- DBMS, Machine Learning, Applied Machine Learning  
+- Data Structures and Algorithms
+- Java & Hadoop  
+- DBMS
+- Machine Learning
+- Applied Machine Learning  
 - Time Series & Survival Analysis  
-- Computer Vision, Deep Learning and NLP  
+- Computer Vision
+-  Deep Learning and NLP  
 - Reinforcement Learning  
 </td>
 </tr>
