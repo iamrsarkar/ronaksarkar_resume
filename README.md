@@ -38,11 +38,12 @@ Ramakrishna Mission Vivekananda Educational and Research Institute (RKMVERI), Be
 </table>
 
 ---
+## 📚 Coursework
+
 <table>
   <tr>
     <td valign="top" width="50%">
 
-## 📚 Coursework
 
 - Universal Human Values  
 - Indian Knowledge System  
