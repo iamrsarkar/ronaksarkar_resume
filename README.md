@@ -8,13 +8,13 @@ Ramakrishna Mission Vivekananda Educational and Research Institute (RKMVERI), Be
     <td align="center" width="60%">
       📧 <a href="mailto:ronaksarkar03@gmail.com">ronaksarkar03@gmail.com</a>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="60%">
       🔗 <a href="https://www.linkedin.com/in/ronak-sarkar-122a6130b/">LinkedIn</a>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="60%">
       💻 <a href="https://github.com/iamrsarkar">GitHub</a>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="60%">
       🌐 <a href="https://sites.google.com/view/rsarkar">Portfolio</a>
     </td>
   </tr>
