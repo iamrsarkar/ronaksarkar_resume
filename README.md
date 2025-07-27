@@ -38,6 +38,9 @@ Ramakrishna Mission Vivekananda Educational and Research Institute (RKMVERI), Be
 </table>
 
 ---
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
 ## 📚 Coursework
 
@@ -51,6 +54,9 @@ Ramakrishna Mission Vivekananda Educational and Research Institute (RKMVERI), Be
 - Time Series & Survival Analysis  
 - Computer Vision, Deep Learning and NLP  
 - Reinforcement Learning  
+</td>
+</tr>
+</table>
 
 ---
 
@@ -75,6 +81,9 @@ Ramakrishna Mission Vivekananda Educational and Research Institute (RKMVERI), Be
 ---
 
 ## 🎓 Education
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
 - **Ramakrishna Mission Vivekananda Educational and Research Institute, Howrah**  
   *M.Sc in Big Data Analytics* (2024 – 2026, Expected)
@@ -87,7 +96,9 @@ Ramakrishna Mission Vivekananda Educational and Research Institute (RKMVERI), Be
 
 - **Nivedita Sishu Siksha Kendra**  
   *Elementary School* (2009 – 2012)
-
+</td>
+</tr>
+</table>
 ---
 
 ## 🛠️ Skills
