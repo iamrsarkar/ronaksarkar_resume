@@ -5,7 +5,7 @@ Ramakrishna Mission Vivekananda Educational and Research Institute (RKMVERI), Be
 
 <table>
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="60%">
       📧 <a href="mailto:ronaksarkar03@gmail.com">ronaksarkar03@gmail.com</a>
     </td>
     <td align="center" width="25%">
