@@ -2,53 +2,48 @@
 
 **M.Sc in Big Data Analytics**  
 Ramakrishna Mission Vivekananda Educational and Research Institute (RKMVERI), Belur Math, West Bengal, India  
-📫 Email: ronaksarkar03@gmail.com  🔗 [LinkedIn](https://www.linkedin.com/in/r-sarkar-122a6130b/) | 🎯 FIDE Rating: 1447  
+
+📧 ronaksarkar03@gmail.com  
+📱 7980465204  
+🔗 [LinkedIn](https://www.linkedin.com/in/ronak-sarkar-122a6130b/)  
+💻 [GitHub](https://github.com/iamrsarkar)  
+🌐 [Portfolio](https://sites.google.com/view/rsarkar)  
 
 ---
 
-## 📁 Projects
-
 <table>
-  <tr>
-    <td valign="top" width="50%">
+<tr>
+<td valign="top" width="50%">
+
+### 📁 Projects
 
 - **[Congruence Theory and Its Applications](https://github.com/iamrsarkar/Congruence-Theory-And-Its-Applications)**  
   Explored applications of Congruence Theory in Number Theory and Cryptography.
 
 - **[Fashion MNIST Classification](https://github.com/iamrsarkar/Predicting-Fashion-Categories-A-Machine-Learning-Classification-Approach-Using-Fashion-MNIST)**  
-  Built ML models to classify fashion items using the Fashion MNIST dataset, focusing on high-accuracy classification.
+  Built ML models for classifying fashion items with high accuracy.
 
-- **[MFCC-Based Speech Feature Extraction](https://github.com/iamrsarkar/mfcc-feature-extraction)**  
-  Implemented a full MFCC pipeline in Python including pre-emphasis, framing, FFT, Mel filterbanks, DCT, and delta features.
-
-</td>
-<td valign="top" width="50%">
+- **[MFCC-Based Speech Feature Extraction](https://github.com/iamrsarkar/mel-frequency-cepstral-coefficients)**  
+  Full MFCC pipeline in Python; visualized each signal-processing stage.
 
 - **[ChessLens: Chess Board Visualization](https://github.com/iamrsarkar/ChessLens)**  
-  Developed a real-time chessboard digitization tool using OpenCV and Tkinter for visualizing FEN positions.
+  Real-time chessboard digitizer using OpenCV and Tkinter.
 
-- **[Visual Question Answering on VizWiz Dataset](https://github.com/iamrsarkar/VQA-VizWiz)**  
-  Used CLIP ViT-B/32 and MLPs for accessibility-focused VQA. Tackled noise and long-tail answer distributions.
+- **[Visual Question Answering – VizWiz](https://github.com/iamrsarkar/Visual-Question-Answering-VQA-on-Vizwiz-dataset)**  
+  Used CLIP ViT-B/32 and MLPs for accessibility-focused VQA.
 
-- **[Reinforcement Learning-Based Portfolio Optimization](https://github.com/iamrsarkar/reinforcement-portfolio-optimization)**  
-  Designed an RL-based portfolio strategy using GATs and spatio-temporal features. Backtested for validation.
-
-</td>
-</tr>
-</table>
+- **[RL-Based Portfolio Optimization](https://github.com/iamrsarkar/reinforcement-portfolio-optimization)**  
+  Used GATs and temporal features for portfolio strategies.  
 
 ---
-## 📚 Coursework
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
+### 📚 Coursework
 
 - Universal Human Values  
 - Indian Knowledge System  
 - Basic Statistics  
-- Probability and Stochastic Process  
-- Linear and Abstract Algebra  
+- Probability & Stochastic Process  
+- Linear & Abstract Algebra  
 - Advanced Statistical Methods  
 - Multivariate Analysis  
 
@@ -65,64 +60,61 @@ Ramakrishna Mission Vivekananda Educational and Research Institute (RKMVERI), Be
 - Deep Learning and NLP  
 - Reinforcement Learning  
 
+---
+
+### 🏆 Achievements
+
+- Selected for **IASc-INSA-NASI SRFP 2025**  
+- 🥇 Chess winner – TECHetc 2K23 (Hooghly Engineering)  
+- 🥇 1st Prize – Intra-College Chess Tournament 2023–24  
+- ♟️ FIDE Classical Rating: **1447**
+
+---
+
+### 📜 Certifications
+
+- IT/ITES Vocational Course: Level 1  
+- Python Project for Beginners (Great Learning Academy, Aug 2024)
+
+---
+
+### 🧪 Experience
+
+**IASc-INSA-NASI Summer Research Fellow**  
+*IIT Bombay, Mumbai*  
+🗓️ May 2025 – July 2025  
+
+- Worked under **Prof. K.S. Mallikarjuna Rao**  
+- Research: Portfolio Optimization
+
+---
+
+### 🎓 Education
+
+- **RKMVERI, Belur**  
+  *M.Sc in Big Data Analytics* (2024 – 2026 expected)  
+- **Chandernagore College, Univ. of Burdwan**  
+  *B.Sc (Hons.) in Mathematics* (2021 – 2024)  
+- **Pandua Sasibhusan Saha High School**  
+  *Higher Secondary – PCM & CS* (2013 – 2021)  
+- **Nivedita Sishu Siksha Kendra**  
+  *Elementary School* (2009 – 2012)  
+
+---
+
+### 🛠️ Skills
+
+- **Programming:** Python, R  
+- **Concepts:** ML, Data Analysis, Portfolio Optimization, Time Series  
+- **Maths:** Algebra, Probability, Statistics  
+- **Tools:** Git/GitHub, MySQL, Oracle, MS Office, ELAN  
+
+---
+
+### 🎯 Hobby
+
+- Playing Chess ♟️
+
 </td>
 </tr>
 </table>
-
----
-
-## 🏆 Achievements
-
-- **IASc-INSA-NASI SRFP Fellow 2025** – Selected under national-level Summer Research Fellowship Programme.  
-- 🥇 1st Position in Chess — TECHetc 2K23, Hooghly Engineering & Technology College  
-- 🥇 1st Prize — Intra-College Chess Tournament 2023–24, Chandernagore College  
-- ♟️ FIDE Classical Chess Rating: **1447**
-
----
-
-## 🧪 Experience
-
-### IASc-INSA-NASI Summer Research Fellow  
-**Indian Institute of Technology Bombay**  
-📍 Mumbai, India  
-🗓️ May 2025 – July 2025  
-- Worked under **Prof. K.S. Mallikarjuna Rao**  
-- Focused research on **Portfolio Optimization** in financial data analytics.
-
----
-
-## 🎓 Education
-
-- **Ramakrishna Mission Vivekananda Educational and Research Institute, Howrah**  
-  *M.Sc in Big Data Analytics* (2024 – 2026, Expected)
-
-- **Chandernagore College, University of Burdwan**  
-  *B.Sc (Hons.) in Mathematics* (2021 – 2024)
-
-- **Pandua Sasibhusan Saha High School**  
-  *Higher Secondary – PCM + Computer Science* (2013 – 2021)
-
-- **Nivedita Sishu Siksha Kendra**  
-  *Elementary School* (2009 – 2012)
-
----
-
-## 🛠️ Skills
-
-- **Programming:** Python, R  
-- **Concepts:** Machine Learning, Data Analysis, Portfolio Optimization, Time Series Analysis, Data Structures  
-- **Mathematics:** Linear Algebra, Abstract Algebra, Probability, Statistics  
-- **Tools:** Git/GitHub, Oracle DB, MySQL, MS Office, ELAN Annotation Tool  
-
----
-
-## 📜 Certifications
-
-- IT/ITES Vocational Course – Level 1 & Level 2  
-- Python Project for Beginners – Great Learning Academy (August 2024)
-
----
-
-## 🎯 Hobbies
-
-- ♟️ Playing Chess
